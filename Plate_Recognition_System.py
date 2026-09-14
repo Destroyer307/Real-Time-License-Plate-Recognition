@@ -59,7 +59,7 @@ ctime= 0
 
 log_file = open("Plate_SAVİNG.txt" , mode="a" , encoding="utf-8")
 
-cap = cv2.VideoCapture(r"C:\Users\Casper\OneDrive\Desktop\PyTorch\14703755_1920_1080_30fps.mp4")
+cap = cv2.VideoCapture(r"Video dosyasının yolunu girin")
 
 if not cap.isOpened():
     print("Kamaera açılamadı ne biçim kameran var amk")
