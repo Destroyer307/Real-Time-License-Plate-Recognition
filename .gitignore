@@ -1,0 +1,10 @@
+pytorch_env/
+__pycache__/
+*.pyc
+
+Plate_SAVİNG.txt
+
+runs/
+
+train/
+valid/
